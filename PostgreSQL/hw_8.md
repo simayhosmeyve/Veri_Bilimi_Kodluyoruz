@@ -6,7 +6,6 @@
 * CREATE TABLE employee(id INTEGER,name VARCHAR(50),birthday DATE,email VARCHAR(100));
 
 *  'Mockaroo' servisi kullanılarak veriler rastgele oluşturuldu. 
-*  
 insert into employee (id, name, birthday, email) values (1, 'Gretta', '5.7.2021', 'gtefft0@chronoengine.com');
 
 insert into employee (id, name, birthday, email) values (2, 'Alexio', '4.12.2021', 'awinders1@privacy.gov.au');
